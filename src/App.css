@@ -92,17 +92,3 @@ a:hover {
   flex-direction: column;
   gap:30px;
 }
-@media (min-width:320px) {
-  .footer{
-    display: flex;
-    margin-block: 5rem;
-    margin-inline: 30px;
-    justify-content: space-between;
-    flex-direction: column;
-  }
-  .footer-logo{
-    display: flex;
-    flex-direction: column;
-    gap:30px;
-  }
-}
